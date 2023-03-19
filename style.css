@@ -1,0 +1,109 @@
+﻿body {
+    background-color: none;
+}
+
+h1 {
+    padding: 0;
+    margin-top: 40px;
+    font-size: 35px;
+    text-align: center;
+}
+h6 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+}
+
+.tables {
+
+}
+
+tr {
+
+}
+
+th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.si {
+
+}
+.st {
+    text-align: center;
+}
+
+.s {
+    text-align: center;
+}
+
+.ac {
+    text-align: center;
+}
+
+.cd {
+    text-align: center;
+}
+
+.m {
+    text-align: center;
+}
+
+.im {
+    text-align: center;
+}
+
+.w {
+    text-align: center;
+}
+
+.csa {
+    text-align: center;
+}
+
+.hi {
+    text-align: center;
+}
+
+.pc {
+    text-align: center;
+}
+
+.gb {
+    text-align: center;
+}
+
+.da {
+    text-align: center;
+}
+
+.e {
+    text-align: center;
+}
+
+.pe {
+    text-align: center;
+}
+
+.f  {
+    text-align: center;
+    
+}
+.tu {
+    text-align: right;
+}
+
+.fi {
+    text-align: center;
+}
